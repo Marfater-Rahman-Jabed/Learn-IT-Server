@@ -1,26 +1,26 @@
 [
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
         "name": "Artificial Intelligence"
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
         "name": "Data Science"
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "category_id": "03",
         "name": "Cloud Computing"
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "category_id": "04",
         "name": "Networking"
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "category_id": "05",
         "name": "Softwear developing"
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "06",
         "name": "Big Data"
     }
 ]
